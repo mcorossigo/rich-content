@@ -1,0 +1,52 @@
+{
+    "short_name": "Test Title 4",
+    "name": "Test Title 5",
+    "icons": [
+      {
+        "src": "./favicon.svg",
+        "type": "image/svg",
+        "sizes": "any"
+      },
+      {
+        "src": "./favicon.ico",
+        "type": "image/vnd.microsoft.icon",
+        "sizes": "16x16 24x24 32x32 64x64"
+      },
+      {
+        "src": "./favicon-32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "./favicon-48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "./favicon-96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "./favicon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./favicon-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "./favicon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "./#src=webmanifest",
+    "background_color": "#0000ff",
+    "display": "standalone",
+    "theme_color": "#ff0000",
+    "lang": "en",
+    "orientation": "any"
+  }
